@@ -1,7 +1,7 @@
 {
 	"name": "build-helper",
-	"version": "0.0.2",
-	"description": "ttf-helper-core",
+	"version": "0.0.1",
+	"description": "build-helper",
 	"type": "module",
 	"main": "./dist/index.cjs",
 	"module": "./dist/index.js",
@@ -22,8 +22,9 @@
 		"publish": "node bin/publish.js"
 	},
 	"keywords": [
-		"ttf",
-		"ttf-helper"
+		"build",
+		"uniapp",
+		"hbuilder"
 	],
 	"author": "https://github.com/chinjiaqing",
 	"license": "ISC",
